@@ -26,4 +26,4 @@ var t=arguments[3],e="Expected a function",n=NaN,r="[object Symbol]",i=/^\s+|\s+
 },{"./MaterialIcons-Regular.eot":[["MaterialIcons-Regular.b2dfdb43.eot","j5gN"],"j5gN"],"./MaterialIcons-Regular.woff2":[["MaterialIcons-Regular.042e3246.woff2","TxNh"],"TxNh"],"./MaterialIcons-Regular.woff":[["MaterialIcons-Regular.cc4a9352.woff","BrWe"],"BrWe"],"./MaterialIcons-Regular.ttf":[["MaterialIcons-Regular.7f257eac.ttf","EElw"],"EElw"]}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/app.js"),require("./styles.css"),require("../node_modules/material-design-icons/iconfont/material-icons.css");
 },{"./js/app.js":"QdeU","./styles.css":"jRvc","../node_modules/material-design-icons/iconfont/material-icons.css":"Vl7d"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-13-image-finder/src.6fae5977.js.map
+//# sourceMappingURL=/goit-js-hw-13-image-finder/src.7fb05b08.js.map
